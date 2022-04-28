@@ -1,0 +1,26 @@
+{
+  "843": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "843",
+    "model": "BMW",
+    "anAchizitie": 2002,
+    "nrKm": 38696.47154841508,
+    "inGarantie": "nu"
+  },
+  "963": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "963",
+    "model": "BMW",
+    "anAchizitie": 2011,
+    "nrKm": 93253.23019283987,
+    "inGarantie": "nu"
+  },
+  "2": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "2",
+    "model": "Audi",
+    "anAchizitie": 2002,
+    "nrKm": 100000.0,
+    "inGarantie": "nu"
+  }
+}

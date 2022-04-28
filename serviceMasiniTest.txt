@@ -1,0 +1,10 @@
+{
+  "1": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "1",
+    "model": "dacia",
+    "anAchizitie": 2011,
+    "nrKm": 100000.0,
+    "inGarantie": "nu"
+  }
+}

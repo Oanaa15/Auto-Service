@@ -1,0 +1,29 @@
+{
+  "1": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "1",
+    "nume": "Pop",
+    "prenume": "Maria",
+    "cnp": "6000504081516",
+    "dataNastere": "04.05.2000",
+    "dataInreg": "14.10.2020"
+  },
+  "2": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "2",
+    "nume": "Oprea",
+    "prenume": "Andrei",
+    "cnp": "5010917041212",
+    "dataNastere": "17.09.2001",
+    "dataInreg": "15.11.2021"
+  },
+  "3": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "3",
+    "nume": "Andreias",
+    "prenume": "Alesia",
+    "cnp": "1234123456789",
+    "dataNastere": "11.11.2002",
+    "dataInreg": "13.11.2020"
+  }
+}

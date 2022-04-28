@@ -1,0 +1,18 @@
+{
+  "1": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "1",
+    "model": "audi",
+    "anAchizitie": 2011,
+    "nrKm": 120500,
+    "inGarantie": "nu"
+  },
+  "2": {
+    "py/object": "Domain.masina.Masina",
+    "idEntitate": "2",
+    "model": "renault",
+    "anAchizitie": 2020,
+    "nrKm": 100000,
+    "inGarantie": "nu"
+  }
+}
